@@ -6,4 +6,4 @@ end
 
  new_sentence_array = new_sentence_array.join(" ")
 end 
- p new_sentence
+ p new_sentence_array
