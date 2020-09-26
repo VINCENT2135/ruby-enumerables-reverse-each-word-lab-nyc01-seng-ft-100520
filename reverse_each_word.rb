@@ -5,5 +5,5 @@ new_sentence_array = sentence_array.map do |word|
 end
 
  new_sentence = new_sentence_array.join(" ")
-
+end 
  p new_sentence
