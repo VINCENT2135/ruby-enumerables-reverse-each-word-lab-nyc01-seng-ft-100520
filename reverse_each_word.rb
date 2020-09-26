@@ -4,6 +4,6 @@ new_sentence_array = sentence_array.map do |word|
    word.reverse
 end
 
- new_sentence = new_sentence_array.join(" ")
+ new_sentence_array = new_sentence_array.join(" ")
 end 
  p new_sentence
